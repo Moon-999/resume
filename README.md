@@ -20,3 +20,4 @@
         - 데이터베이스 : PostgreSQL
         - 언어 : python
     - 내용 : 영끌족을 위한 부동산 정보(뉴스기사, 안심전환대출) 알림 챗봇
+    [자세히보기](https://github.com/Moon-999/projects/tree/main/chatbot)
