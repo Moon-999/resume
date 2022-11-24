@@ -10,4 +10,13 @@
 # Ⅲ. 증명
 - 자격증
     - 컴퓨터활용능력2급 / 2022.07.22 / 대한상공회의소
-    
+
+# Ⅳ. 포트폴리오
+- ### 부동산챗봇프로젝트
+    - 기간 : 2022.11.17~22.11.22
+    - 개발환경
+        - 코딩환경 : vsCode / jupyterlab
+        - 웹환경 : Github / Heroku / Flask / SQLalchemy / kakao open builder
+        - 데이터베이스 : PostgreSQL
+        - 언어 : python
+    - 내용 : 영끌족을 위한 부동산 정보(뉴스기사, 안심전환대출) 알림 챗봇
