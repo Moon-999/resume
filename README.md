@@ -21,3 +21,14 @@
         - 언어 : python
     - 내용 : 영끌족을 위한 부동산 정보(뉴스기사, 안심전환대출) 알림 챗봇
     [자세히보기](https://github.com/Moon-999/projects/tree/main/chatbot)
+
+- ### 자전거여행 일정계획 웹사이트
+    - 기간 : 2022.12.19~23.01.20
+    - 개발환경
+        - 코딩환경 : vsCode / STS4
+        - 웹환경 : Github / AWS / certbot / nginx / Synology
+        - 데이터베이스 : MySQL / MariaDB
+        - 언어 : Java / HTML / CSS / JS     
+    - 내용 : 외국인 관광객을 대상으로 서울의 공공자전거 '따릉이'를 좀 더 쉽고 편안하게 이용할 수 있도록 대여소 위치 정보 검색, 자전거 코스 추천, 나만의 루트 계획, 게시판을 통한 정보 교류까지 가능한 웹사이트
+    [자세히보기](https://github.com/Moon-999/projects/tree/main/website)
+
